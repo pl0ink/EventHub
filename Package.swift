@@ -31,6 +31,6 @@ let package = Package(
 
 		.target(
 			name: "EventHub",
-			path: "EventHub/Pod/Classes")
+			path: "Pod/Classes")
 	]
 )
